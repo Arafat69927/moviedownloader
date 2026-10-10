@@ -1,7 +1,7 @@
 
 
 
-For windows Powershell (no package need to download) 
+For windows Powershell (no package need to download) <br>
 copy this whole things once and paste into your powershell 
 <h4> # Direct- "irm https://raw.githubusercontent.com/mesamirh/MovieBox-Tui/main/install.ps1 | iex " </h4>
 after install --> moivebox-tui
